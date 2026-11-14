@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vila-live/vila-glt/master/media/icon.png" alt="Vila Live" width="96">
-</p>
-
 <h1 align="center">Vila Live</h1>
 
 <p align="center">Free, open-source voice tools built on Google's Gemini Live models.</p>
